@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CricScore/static/css/main.1e219f91.css",
+    "main.js": "/CricScore/static/js/main.03000a8d.js",
+    "static/js/787.654da052.chunk.js": "/CricScore/static/js/787.654da052.chunk.js",
+    "static/media/vs.jpg": "/CricScore/static/media/vs.6a1de506e11a46d4008c.jpg",
+    "static/media/cricBack.jpg": "/CricScore/static/media/cricBack.0f74f38134ea382316f3.jpg",
+    "static/media/ball.gif": "/CricScore/static/media/ball.f2eb96ba0f7767591383.gif",
+    "index.html": "/CricScore/index.html",
+    "main.1e219f91.css.map": "/CricScore/static/css/main.1e219f91.css.map",
+    "main.03000a8d.js.map": "/CricScore/static/js/main.03000a8d.js.map",
+    "787.654da052.chunk.js.map": "/CricScore/static/js/787.654da052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e219f91.css",
+    "static/js/main.03000a8d.js"
+  ]
+}
