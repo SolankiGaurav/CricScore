@@ -1,0 +1,58 @@
+.cardImg {
+    max-width: 80px;
+    margin: auto;
+    display: block;
+}
+
+.cricBack {
+    background: url('../public/cricBack.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position-x: -200px;
+    background-position-y: 100px;
+    /* background-position: ; */
+}
+
+.vsBack {
+    background: url('../public/vs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.ballGif{
+    background: url('../public/ball.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -120px;
+}
+
+.bouncingBall{
+    height: 40px;
+    width: 40px;
+    transform: scale(1.35);
+    border-radius: 50px;
+    top: -1px;
+    position: relative;
+}
+
+.ballDiv{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.vsBack{
+    background: url('../public/vs.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dialogImg{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+}
+
